@@ -1,0 +1,4 @@
+name: Run shell Commands
+on: [Push, fork]
+jobs:
+  run-shell-Commands
